@@ -1,0 +1,11 @@
+1. refine insidr by splitting logs and other into different files.
+2. check function names and modify code
+3. modify data storage pattern
+4. repeate for all websites.
+
+# websites
+
+https://www.aixploria.com/en/ultimate-list-ai/
+https://www.futurepedia.io/
+https://www.insidr.ai/ai-tools/
+https://tooldirectory.ai/top-ai-categories
