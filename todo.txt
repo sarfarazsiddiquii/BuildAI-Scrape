@@ -3,6 +3,10 @@
 3. modify data storage pattern
 4. repeate for all websites.
 
+#bugs/improvement
+
+1. links are redirecting make them direct
+
 # websites
 
 https://www.aixploria.com/en/ultimate-list-ai/
