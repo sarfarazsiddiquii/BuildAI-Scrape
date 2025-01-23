@@ -1,4 +1,7 @@
+# next 
 
+for futurepedia get some links manually from https://www.futurepedia.io/ai-tools (saves a layer)
+from here same as aixploria
 
 # websites
 
@@ -9,6 +12,6 @@ https://tooldirectory.ai/top-ai-categories
 
 
 
-end
+#end
 
 Unit Tests
