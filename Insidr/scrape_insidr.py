@@ -126,7 +126,7 @@ class AIToolsScraper:
             for page_num in range(1, num_pages + 1):
                 tools = self.scrape_page(page_num)
                 all_tools.extend(tools)
-                time.sleep(2)  # Polite delay between pages
+                time.sleep(2)  
             
             self.save_to_csv(all_tools, output_file)
             
