@@ -64,7 +64,7 @@ class AIToolsScraper:
             ]
         )
         self.logger = logging.getLogger(__name__)
-
+    
     def setup_driver(self, headless: bool) -> uc.Chrome:
         """Initialize and configure the Chrome driver."""
         options = uc.ChromeOptions()
