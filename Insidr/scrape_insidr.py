@@ -119,13 +119,17 @@ class AIToolsScraper:
         except Exception as e:
             self.logger.error(f"Error saving to CSV: {str(e)}")
 
-    def run(self, num_pages: int, output_file: str):
+    def run(self, output_file: str):
         """Run the complete scraping process."""
         try:
             all_tools = []
-            for page_num in range(1, num_pages + 1):
+            page_num = 1
+            while True:
                 tools = self.scrape_page(page_num)
+                if not tools:
+                    break
                 all_tools.extend(tools)
+                page_num += 1
                 time.sleep(2)  
             
             self.save_to_csv(all_tools, output_file)
@@ -137,10 +141,7 @@ class AIToolsScraper:
 
 def main():
     scraper = AIToolsScraper(headless=False)
-    scraper.run(num_pages=1, output_file="ai_tools_data.csv")
+    scraper.run(output_file="ai_tools_data.csv")
 
 if __name__ == "__main__":
     main()
-    
-    
-    

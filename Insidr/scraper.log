@@ -1,0 +1,52 @@
+2025-01-24 15:10:01,944 - INFO - patching driver executable C:\Users\sarfa\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-24 15:10:08,368 - INFO - Scraping page 1: https://www.insidr.ai/ai-tools/
+2025-01-24 15:10:32,219 - INFO - Data successfully saved to ai_tools_data.csv
+2025-01-24 15:11:27,745 - INFO - patching driver executable C:\Users\sarfa\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-24 15:11:39,345 - INFO - Scraping page 1: https://www.insidr.ai/ai-tools/
+2025-01-24 15:12:04,952 - INFO - Data successfully saved to ai_tools_data.csv
+2025-01-24 15:14:50,702 - INFO - patching driver executable C:\Users\sarfa\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-24 15:14:54,923 - INFO - Scraping page 1: https://www.insidr.ai/ai-tools/
+2025-01-24 15:15:15,710 - INFO - Scraping page 2: https://www.insidr.ai/ai-tools/page/2/
+2025-01-24 15:15:30,703 - INFO - Scraping page 3: https://www.insidr.ai/ai-tools/page/3/
+2025-01-24 15:15:45,992 - INFO - Scraping page 4: https://www.insidr.ai/ai-tools/page/4/
+2025-01-24 15:16:02,318 - INFO - Scraping page 5: https://www.insidr.ai/ai-tools/page/5/
+2025-01-24 15:16:17,640 - INFO - Scraping page 6: https://www.insidr.ai/ai-tools/page/6/
+2025-01-24 15:16:36,174 - INFO - Scraping page 7: https://www.insidr.ai/ai-tools/page/7/
+2025-01-24 15:16:53,955 - INFO - Scraping page 8: https://www.insidr.ai/ai-tools/page/8/
+2025-01-24 15:17:10,061 - INFO - Scraping page 9: https://www.insidr.ai/ai-tools/page/9/
+2025-01-24 15:17:26,250 - INFO - Scraping page 10: https://www.insidr.ai/ai-tools/page/10/
+2025-01-24 15:17:41,405 - INFO - Scraping page 11: https://www.insidr.ai/ai-tools/page/11/
+2025-01-24 15:17:55,193 - INFO - Scraping page 12: https://www.insidr.ai/ai-tools/page/12/
+2025-01-24 15:18:11,194 - INFO - Scraping page 13: https://www.insidr.ai/ai-tools/page/13/
+2025-01-24 15:18:27,944 - INFO - Scraping page 14: https://www.insidr.ai/ai-tools/page/14/
+2025-01-24 15:18:45 ,153 - INFO - Scraping page 15: https://www.insidr.ai/ai-tools/page/15/
+2025-01-24 15:19:02,650 - INFO - Scraping page 16: https://www.insidr.ai/ai-tools/page/16/
+2025-01-24 15:19:20,551 - INFO - Scraping page 17: https://www.insidr.ai/ai-tools/page/17/
+2025-01-24 15:19:40,707 - INFO - Scraping page 18: https://www.insidr.ai/ai-tools/page/18/
+2025-01-24 15:19:56,587 - INFO - Scraping page 19: https://www.insidr.ai/ai-tools/page/19/
+2025-01-24 15:20:13,882 - INFO - Scraping page 20: https://www.insidr.ai/ai-tools/page/20/
+2025-01-24 15:20:30,475 - INFO - Scraping page 21: https://www.insidr.ai/ai-tools/page/21/
+2025-01-24 15:20:46,135 - INFO - Scraping page 22: https://www.insidr.ai/ai-tools/page/22/
+2025-01-24 15:21:01,420 - INFO - Scraping page 23: https://www.insidr.ai/ai-tools/page/23/
+2025-01-24 15:21:16,089 - INFO - Scraping page 24: https://www.insidr.ai/ai-tools/page/24/
+2025-01-24 15:21:31,805 - INFO - Scraping page 25: https://www.insidr.ai/ai-tools/page/25/
+2025-01-24 15:21:46,504 - INFO - Scraping page 26: https://www.insidr.ai/ai-tools/page/26/
+2025-01-24 15:22:07,191 - INFO - Scraping page 27: https://www.insidr.ai/ai-tools/page/27/
+2025-01-24 15:22:23,946 - INFO - Scraping page 28: https://www.insidr.ai/ai-tools/page/28/
+2025-01-24 15:22:40,034 - INFO - Scraping page 29: https://www.insidr.ai/ai-tools/page/29/
+2025-01-24 15:22:55,114 - INFO - Scraping page 30: https://www.insidr.ai/ai-tools/page/30/
+2025-01-24 15:23:11,690 - INFO - Scraping page 31: https://www.insidr.ai/ai-tools/page/31/
+2025-01-24 15:23:27,726 - INFO - Scraping page 32: https://www.insidr.ai/ai-tools/page/32/
+2025-01-24 15:23:43,986 - INFO - Scraping page 33: https://www.insidr.ai/ai-tools/page/33/
+2025-01-24 15:24:00,777 - INFO - Scraping page 34: https://www.insidr.ai/ai-tools/page/34/
+2025-01-24 15:24:19,742 - INFO - Scraping page 35: https://www.insidr.ai/ai-tools/page/35/
+2025-01-24 15:24:36,410 - INFO - Scraping page 36: https://www.insidr.ai/ai-tools/page/36/
+2025-01-24 15:24:52,966 - INFO - Scraping page 37: https://www.insidr.ai/ai-tools/page/37/
+2025-01-24 15:25:10,948 - INFO - Scraping page 38: https://www.insidr.ai/ai-tools/page/38/
+2025-01-24 15:25:28,590 - INFO - Scraping page 39: https://www.insidr.ai/ai-tools/page/39/
+2025-01-24 15:25:44,402 - INFO - Scraping page 40: https://www.insidr.ai/ai-tools/page/40/
+2025-01-24 15:26:02,241 - INFO - Scraping page 41: https://www.insidr.ai/ai-tools/page/41/
+2025-01-24 15:26:22,964 - INFO - Scraping page 42: https://www.insidr.ai/ai-tools/page/42/
+2025-01-24 15:26:39,016 - INFO - Scraping page 43: https://www.insidr.ai/ai-tools/page/43/
+2025-01-24 15:27:01,847 - ERROR - Timeout waiting for page 43 to load
+2025-01-24 15:27:01,857 - INFO - Data successfully saved to ai_tools_data.csv
